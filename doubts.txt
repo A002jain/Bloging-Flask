@@ -1,0 +1,7 @@
+1-> What is purpose of __init__.py ?
+
+2->instance_relative_config – if set to True relative filenames for loading the config are assumed to be relative to the instance path instead of the application root.What ?
+
+3->what is g?
+
+stands for global data for individual request
